@@ -1,2 +1,2 @@
 # edi
-useful links
+useful links .
