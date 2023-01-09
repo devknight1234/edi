@@ -2,6 +2,9 @@
 useful links .
 
 # filter driver
+https://www.codeproject.com/Articles/43586/File-System-Filter-Driver-Tutorial
+https://www.codeproject.com/KB/system/fs-filter-driver-tutorial/fsfilter.zip
+
 1. https://github.com/apriorit/file-system-filter
 2. https://github.com/CynicalApe/FSFilterDriver-QuickEditApp
 
