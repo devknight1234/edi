@@ -13,8 +13,16 @@ https://www.codeproject.com/KB/system/fs-filter-driver-tutorial/fsfilter.zip
 
 5. https://github.com/EaseFilterSDK/FileMonitorExample
 
+# Solr
+1. https://www.tutorialspoint.com/apache_solr/apache_solr_tutorial.pdf
+2. https://downloads.apache.org/lucene/solr/ref-guide/apache-solr-ref-guide-8.1.pdf
+3. 
+
+
 # Go data
 ## Go vs Nodejs vs PHP
 https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
 ## Go installer for windows
 https://go.dev/doc/install
+## Go tutorial
+https://github.com/go101/go101.git
