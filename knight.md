@@ -12,4 +12,7 @@ https://marketplace.visualstudio.com/_apis/public/gallery/publishers/golang/vsex
 ## Go web pdf
 https://github.com/GunterMueller/Books-3/raw/master/Go%20Web%20Programming.pdf
 https://github.com/acentior/build-web-application-with-golang/archive/refs/heads/master.zip
-
+https://drive.google.com/file/d/1yRqWv6v8lEqNoQp-Knb_NdWflIqTghYN/view?usp=sharing
+# nginx
+https://nginx.org/download/nginx-1.22.1.zip
+https://www.nginx.com/resources/wiki/start/topics/examples/full/
